@@ -1,0 +1,60 @@
+header {
+    width: 100%;
+    position: sticky;
+}
+    
+
+
+.navbar {
+    padding-top: 0px; 
+    padding-bottom: 0px; 
+    border-bottom: #cccccc 2px solid;
+    font-size: 18px;
+    background-color: #ffffff;
+}
+
+.navbar-brand {
+    background-color: #4aaaa5;  
+    padding: 30px; 
+    margin-left: 265px;
+    font-family: 'Georgia', Times, Times New Roman, serif; 
+    font-size: 28px; 
+    width: 250px; 
+    line-height: 30px;
+    text-align: center;
+}
+
+.navbar-nav {
+    margin-right: 265px;
+}
+
+.nav-link {
+    border-right: #cccccc 1px solid; 
+
+}
+
+.main-container {
+    color: #777777; 
+    font-size: 18px; 
+
+    max-width: 960px; 
+    margin-top: 30px; 
+    margin-bottom: 30px; 
+    padding: 20px; 
+    margin-left: 18.5%; 
+    background-image: url(assets/images/prism.img.png)
+}
+
+.img {
+    margin: 0px;
+}
+
+footer {
+    border-top: #4aaaa5 7px solid; 
+    background-color: #666666; 
+    color: #dddddd; 
+    padding: 40px 0px 5px 0px; 
+    font-size: 10px;
+    position: sticky;
+    text-align: center;
+}
